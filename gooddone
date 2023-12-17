@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Joe Biden - Personal Webpage</title>
+  <style>
+    body {
+      background-color: #FFFFCC; /* Cheerful Yellow */
+      color: #333; /* Text color */
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #3498db; /* Blue Accent */
+      padding: 20px;
+      text-align: center;
+      color: #fff; /* Header text color */
+    }
+
+    section {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 20px;
+      background-color: #fff; /* White content background */
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    footer {
+      background-color: #3498db; /* Blue Accent */
+      padding: 10px;
+      text-align: center;
+      color: #fff; /* Footer text color */
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Joe Biden</h1>
+    <p>Owner of a Children's Vodka Brand | President of the United States</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>
+      Hello, I'm Joe Biden, the proud owner of a vodka brand for children and the current President of the United States. I had the honor of being Barack Obama's husband and the first man during his presidency. Join me on this unique journey of combining business and politics.
+    </p>
+  </section>
+
+  <footer>
+    <p>&copy; 2023 Joe Biden</p>
+  </footer>
+
+</body>
+</html>
